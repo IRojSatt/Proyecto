@@ -1,0 +1,35 @@
+[33mcommit dd96034b9923bd3fe6af5271691075f65d3d82fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mnuevaConflict[m[33m)[m
+Author: Pepe <tu@email.com>
+Date:   Sat Feb 20 14:01:52 2021 -0300
+
+    nuevo boton cambio parrafo y cambio titulo
+
+[33mcommit 95c5c05cc2818a791343283dcb8aac078a884f5a[m[33m ([m[1;32mnueva2[m[33m)[m
+Author: Pepe <tu@email.com>
+Date:   Sat Feb 20 13:58:04 2021 -0300
+
+    cambio index
+
+[33mcommit 11ee5bb9fc0e097a0bdd234af455731d58025cae[m[33m ([m[1;32mnueva[m[33m)[m
+Author: Pepe <tu@email.com>
+Date:   Sat Feb 20 13:55:37 2021 -0300
+
+    nueva funcioladidad
+
+[33mcommit 0bf8791fa10ca57bd0965124b6e5ad72f2f146ab[m
+Author: Pepe <tu@email.com>
+Date:   Sat Feb 20 13:18:48 2021 -0300
+
+    Se agrega gitignore y se modifica titulo HTML
+
+[33mcommit 41879c459e6c6a3dce0caae7cb2c64d187edc84e[m
+Author: Pepe <tu@email.com>
+Date:   Sat Feb 20 12:47:28 2021 -0300
+
+    Se agrego estructura a html
+
+[33mcommit e728a613172daf8eece98f376bd5df804f599c5e[m
+Author: Pepe <tu@email.com>
+Date:   Sat Feb 20 12:43:47 2021 -0300
+
+    El primer commit
